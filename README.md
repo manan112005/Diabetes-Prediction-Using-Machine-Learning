@@ -1,22 +1,26 @@
-# Diabetes-Prediction-Using-Machine-Learning
-A Machine Learning project that predicts the likelihood of diabetes using healthcare data. This project demonstrates the complete ML workflow, from data preprocessing to model evaluation, using Python and popular data science libraries.
+🩺 Diabetes Prediction Model
 
-🚀 Tools & Technologies
-🐍 Python
-🔢 NumPy
-📊 Pandas
-🤖 Scikit-Learn
-📈 Matplotlib
-✨ Key Learning Outcomes
+A simple and effective Machine Learning project that predicts whether a person is likely to have diabetes based on medical data. This project demonstrates the complete machine learning workflow, from data preprocessing to model evaluation.
+
+🚀 Features
 🧹 Data Cleaning & Preprocessing
-🔍 Exploratory Data Analysis (EDA) & Feature Analysis
-⚙️ Machine Learning Model Training
-📊 Model Evaluation & Performance Analysis
-🩺 Applying Machine Learning to Real-World Healthcare Data
-📌 Project Overview
+🔍 Exploratory Data Analysis (EDA)
+📊 Feature Analysis & Visualization
+🤖 Machine Learning Model Training
+📈 Model Evaluation & Performance Metrics
+🩺 Predicts the likelihood of diabetes using healthcare data
+🛠️ Technologies Used
+Python
+NumPy
+Pandas
+Scikit-Learn
+Matplotlib
+💡 How It Works
+The dataset is cleaned and preprocessed for better model performance.
+Important features are analyzed to understand their impact on diabetes prediction.
+A machine learning model is trained using the processed data.
+The model is evaluated using performance metrics such as accuracy.
+The trained model predicts whether a patient is likely to have diabetes based on the provided medical information.
+🎯 Project Goal
 
-This project uses a diabetes dataset to build a predictive model that classifies whether a patient is likely to have diabetes based on various medical attributes. The workflow includes data preprocessing, feature analysis, model training, evaluation, and performance visualization.
-
-🎯 Objective
-
-To develop a reliable machine learning model for diabetes prediction while gaining hands-on experience with real-world healthcare datasets and the end-to-end machine learning pipeline.
+To build a reliable diabetes prediction model while gaining hands-on experience with data preprocessing, feature engineering, model training, and applying machine learning to real-world healthcare data.
